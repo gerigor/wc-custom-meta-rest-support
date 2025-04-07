@@ -8,7 +8,7 @@ A quick-and-dirty WordPress plugin that allows you to register custom WooCommerc
 - Use WooCommerce REST API to update or retrieve those fields.
 
 ## Note: 
-The "Single?" checkbox doesn’t retain its state after saving — it's ok, will fix later.
+Probabli, the "Single?" checkbox doesn’t retain its state after saving, will fix it later.
 
 ### To update a registered field via REST:
 ```
